@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1603235264 source:/home/kuba/projects/symulacja_1.02/symulacja/main.cpp
+	<cstdio>
+	<iostream>
+	<stdint.h>
+	<vector>
+	<boost/crc.hpp>
+	<boost/cstdint.hpp>
+	<ctime>
+	<hash-lib/sha256.h>
+	<string>
+	<sstream>
+	<complex>
+	<csignal>
+	<uhd/utils/thread_priority.hpp>
+	<uhd/utils/safe_main.hpp>
+	<uhd/utils/static.hpp>
+	<uhd/usrp/multi_usrp.hpp>
+	<uhd/exception.hpp>
+	<boost/algorithm/string.hpp>
+
+1603068508 source:/home/kuba/projects/symulacja_1.02/symulacja/hash-lib/sha256.cpp
+	"sha256.h"
+	<endian.h>
+
+1603068508 /home/kuba/projects/symulacja_1.02/symulacja/hash-lib/sha256.h
+	<string>
+	<stdint.h>
+
+1603068508 source:/media/kuba/TOSHIBA/symulacja_1.1/symulacja/hash-lib/sha256.cpp
+	"sha256.h"
+	<endian.h>
+
+1603068508 /media/kuba/TOSHIBA/symulacja_1.1/symulacja/hash-lib/sha256.h
+	<string>
+	<stdint.h>
+
+1603302845 source:/media/kuba/TOSHIBA/symulacja_1.1/symulacja/main.cpp
+	<cstdio>
+	<iostream>
+	<stdint.h>
+	<vector>
+	<boost/crc.hpp>
+	<boost/cstdint.hpp>
+	<ctime>
+	<string>
+	<sstream>
+	<complex>
+	<csignal>
+	"hash-lib/sha256.h"
+	<uhd/utils/thread_priority.hpp>
+	<uhd/utils/safe_main.hpp>
+	<uhd/utils/static.hpp>
+	<uhd/usrp/multi_usrp.hpp>
+	<uhd/exception.hpp>
+	<boost/algorithm/string.hpp>
+
+1603068508 source:/home/kuba/Pulpit/symulacja/hash-lib/sha256.cpp
+	"sha256.h"
+	<endian.h>
+
+1603068508 /home/kuba/Pulpit/symulacja/hash-lib/sha256.h
+	<string>
+	<stdint.h>
+
+1603302845 source:/home/kuba/Pulpit/symulacja/main.cpp
+	<cstdio>
+	<iostream>
+	<stdint.h>
+	<vector>
+	<boost/crc.hpp>
+	<boost/cstdint.hpp>
+	<ctime>
+	<string>
+	<sstream>
+	<complex>
+	<csignal>
+	"hash-lib/sha256.h"
+	<uhd/utils/thread_priority.hpp>
+	<uhd/utils/safe_main.hpp>
+	<uhd/utils/static.hpp>
+	<uhd/usrp/multi_usrp.hpp>
+	<uhd/exception.hpp>
+	<boost/algorithm/string.hpp>
+
+1603068508 source:/home/kuba/Pulpit/symulacja_wersja_ostatnia/symulacja/hash-lib/sha256.cpp
+	"sha256.h"
+	<endian.h>
+
+1603068508 /home/kuba/Pulpit/symulacja_wersja_ostatnia/symulacja/hash-lib/sha256.h
+	<string>
+	<stdint.h>
+
+1605135911 source:/home/kuba/Pulpit/symulacja_wersja_ostatnia/symulacja/main.cpp
+	<cstdio>
+	<iostream>
+	<stdint.h>
+	<vector>
+	<boost/crc.hpp>
+	<boost/cstdint.hpp>
+	<ctime>
+	<string>
+	<sstream>
+	<complex>
+	<csignal>
+	"hash-lib/sha256.h"
+	<fstream>
+	<random>
+	<uhd/utils/thread_priority.hpp>
+	<uhd/utils/safe_main.hpp>
+	<uhd/utils/static.hpp>
+	<uhd/usrp/multi_usrp.hpp>
+	<uhd/exception.hpp>
+
+1603068508 source:/home/kuba/Pulpit/symulacja_wersia_inzynierka/symulacja/hash-lib/sha256.cpp
+	"sha256.h"
+	<endian.h>
+
+1603068508 /home/kuba/Pulpit/symulacja_wersia_inzynierka/symulacja/hash-lib/sha256.h
+	<string>
+	<stdint.h>
+
+1605453655 source:/home/kuba/Pulpit/symulacja_wersia_inzynierka/symulacja/main.cpp
+	<cstdio>
+	<iostream>
+	<stdint.h>
+	<vector>
+	<boost/crc.hpp>
+	<boost/cstdint.hpp>
+	<ctime>
+	<string>
+	<sstream>
+	<complex>
+	<csignal>
+	"hash-lib/sha256.h"
+	<fstream>
+	<random>
+	<uhd/utils/thread_priority.hpp>
+	<uhd/utils/safe_main.hpp>
+	<uhd/utils/static.hpp>
+	<uhd/usrp/multi_usrp.hpp>
+	<uhd/exception.hpp>
+
